@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodOverloadingDemoCSharp-51/1.0.0": {
+        "runtime": {
+          "MethodOverloadingDemoCSharp-51.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodOverloadingDemoCSharp-51/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
